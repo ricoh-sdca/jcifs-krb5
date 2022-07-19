@@ -1,3 +1,7 @@
+Tue Jul 19 14:28:10 EDT 2022
+Forked this to pull what I think is the right version of JCIFS for a porting/maintenance effort.
+We might end up refactoring it all away, but at least we can build with the resulting jarfile.
+
 Tue Oct 18 15:10:23 EDT 2011
 jcifs-1.3.17
 
